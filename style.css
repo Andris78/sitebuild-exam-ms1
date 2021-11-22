@@ -2,14 +2,13 @@
     background-color: rgba(214, 214, 207, 0.712);
     height: 100vh;
     position: relative;
- }
+}
 
 #section2 {
     background-color: gray;
     height: 100vh;
     width: auto;
     position: relative;
-    
 }
 
 .button1 {
@@ -40,5 +39,4 @@
     position: absolute;
      left: 50%;
      transform: translate(-50%,0);
-    
 }
